@@ -1,0 +1,4 @@
+User
+Please help me write a program to verify the functionality of the Instruction Fetch Unit. 
+Here is the description of the  Instruction Fetch Unit:
+InstructionFetch unit (IFU), which can extract up to eight instructions at a time and process them in parallel. Several techniques are implemented to improve access efficiency, such as instruction cache prediction, instruction register, loop acceleration register, direct/indirect branch prediction, etc. The whole instruction extraction unit has the characteristics of low power consumption, high branch prediction accuracy and high instruction prefetch efficiency.

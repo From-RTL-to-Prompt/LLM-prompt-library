@@ -1,0 +1,4 @@
+User
+Please help me write a program to verify the functionality of the Retirement Unit. 
+Here is the description of the  Retirement Unit:
+The instruction retirement Unit (RTU) consists of a reorder buffer and a physical register stack. Among them, the reordering buffer is responsible for the out-of-order recovery and retirement of instructions, and the physical register heap is responsible for the out-of-order recovery and delivery of results. Improve the efficiency of instruction retirement by supporting parallel instruction recovery and fast retirement. The instruction retirement unit retires three instructions in parallel per clock cycle, supporting precise exceptions.

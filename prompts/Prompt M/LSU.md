@@ -1,0 +1,4 @@
+User
+Please help me write a program to verify the functionality of the Load-Store Unit. 
+Here is the description of the  Load-Store Unit:
+The storage load unit (LSU) supports double emission of scalar storage/load instructions, single emission of vector storage/load instructions, and total out-of-order execution of all storage/load instructions, and supports non-blocking access to the cache. Supports byte, half-word, word, double-word, and four-word storage/load instructions, and supports symbol bits and zero extensions for byte and half-word load instructions. Store/load instructions can be pipelined so that the data throughput reaches one data access per cycle. Supports 8-channel data stream hardware prefetch technology, and puts data into L1 data cache in advance. When the data cache is missing, parallel access to the bus is supported.

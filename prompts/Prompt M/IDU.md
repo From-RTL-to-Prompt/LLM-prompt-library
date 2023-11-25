@@ -1,0 +1,4 @@
+User
+Please help me write a program to verify the functionality of the  Instruction Decode Unit. 
+Here is the description of the  Instruction Decode Unit:
+An instruction decoding unit (IDU) can decode three instructions simultaneously and detect data correlation. The physical register renaming technique is used to solve the data correlation between instructions, and the instructions are sent out of order to the lower pipeline for execution. Instruction decoding units support out-of-order scheduling and distribution of instructions, and mitigate performance losses caused by data correlation through speculative emission.
